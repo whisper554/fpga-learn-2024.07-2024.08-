@@ -12,8 +12,8 @@
 
 co = co = (ain ^ bin) & cin | (ain & bin);
 
-*flowled_2 流水灯_2*
----
+***flowled_2 流水灯_2***
+
 
 
 flowled_4 流水灯_4
