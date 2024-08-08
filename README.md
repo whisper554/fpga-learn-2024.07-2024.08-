@@ -13,3 +13,5 @@ flowled_4 流水灯_4
 key_led_2 按键灯_2
 
 key_led_4 按键灯_4
+
+breath_led 呼吸灯
