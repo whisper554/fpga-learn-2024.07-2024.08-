@@ -4,8 +4,8 @@
 ---
 0
 ---
-*adder 两位全加器*
----
+***adder 两位全加器***
+
 输入ain、bin、cin，输出co、so，程序结果为{so,co}。
 
 其中 so = ain ^ bin ^ cin;
