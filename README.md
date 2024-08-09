@@ -17,6 +17,8 @@
 ---
 0001
 ---
-***单端口RAM***
+***ip_1port_ram 单端口RAM***
 
-***双端口RAM***
+***ip_2port_ram 双端口RAM***
+
+***ip_fifo 异步fifo***
