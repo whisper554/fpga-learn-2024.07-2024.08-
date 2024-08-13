@@ -22,3 +22,5 @@
 ***ip_2port_ram 双端口RAM***
 
 ***ip_fifo 异步FIFO***
+
+***uart_loopback uart串口通信***
