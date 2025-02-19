@@ -17,10 +17,10 @@
 ---
 0001
 ---
-***ip_1port_ram 单端口RAM***
+***ip_1port_ram 单端口 RAM***
 
-***ip_2port_ram 双端口RAM***
+***ip_2port_ram 双端口 RAM***
 
-***ip_fifo 异步FIFO***
+***ip_fifo 异步 FIFO***
 
-***uart_loopback uart串口通信***
+***uart_loopback uart 串口通信***
